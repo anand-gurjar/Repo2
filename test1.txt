@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CE0E-CC4B
+
+ Directory of C:\Users\hp\Desktop\MyFolder1
+
+20/01/2018  12:46 PM    <DIR>          .
+20/01/2018  12:46 PM    <DIR>          ..
+20/01/2018  12:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  140,184,469,504 bytes free
